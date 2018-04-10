@@ -49,6 +49,7 @@
 //! may not alias each other.
 
 #![doc(html_root_url = "https://docs.rs/matrixmultiply/0.1/")]
+#![no_std]
 
 extern crate rawpointer;
 
